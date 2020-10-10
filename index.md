@@ -2,3 +2,5 @@
 <a href="https://www.baidu.com">baidu</a>
 <a href="https://www.bilibili.com">bili</a>
 <a href="https://www.internationalsaimoe.com">ISML</a>
+<a href="https://play2048.com">bili</a>
+<a href="http://agefans.tv">acg</a>
